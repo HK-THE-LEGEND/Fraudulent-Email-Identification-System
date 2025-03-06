@@ -1,0 +1,5 @@
+Flask
+werkzeug
+pickle5
+numpy
+scikit-learn
